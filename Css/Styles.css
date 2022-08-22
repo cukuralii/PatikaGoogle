@@ -1,0 +1,111 @@
+body{
+    text-align: center;
+    min-width: 500px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.header{
+    height: 200px;
+}
+
+h4{
+    margin: 0px;
+}
+
+
+.container{
+  text-align: center;
+}
+
+
+.GoogleIcon{
+    width: 25%;
+    height: auto;
+}
+.Search{
+
+    height: 80px;
+    background-color: lightgray;
+    
+
+}
+
+
+input[type="search"]{
+
+    border-radius: 8px;
+    padding: 10px 20px;
+    border: 1px solid;
+    block-size: 30px;
+    inline-size: 500px;
+}
+
+.Search > div > button{ 
+  border-radius: 8px;
+  border: 1px solid;
+  width: 200px;
+  margin-top: 5px;
+  margin-right: auto;
+}
+
+.Comment{
+    margin: 2px;
+    display: flex;
+    margin-top: 2px;
+    height: 100px;
+   
+}
+p{   
+    margin:0px;
+
+}
+.Setting{
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+
+.Card1{
+    text-align: center;
+    float: left;
+    width: 35%;
+    height: 100%;
+    background-color:  #85e0dd;
+}
+
+
+
+.Card2{
+    text-align: center;
+    float: left;
+    width: 25%;
+    height: 100%;
+    background-color: #34cbc6;
+    margin-right: 2px;
+    margin-left: 2px;
+}
+.Card2 > .Setting{
+    margin-top: 10px;
+
+}
+
+
+
+.Card3{
+    text-align: center;
+    float: left;
+    width:  40%;
+    height: 100%;
+    background-color:  #1f7a77;
+
+}
+
+.Subs{
+    width: auto;
+}
+
+
+.GoogleInc{
+    margin-top: 25px;
+    text-align: center;
+}
